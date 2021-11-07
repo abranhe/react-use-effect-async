@@ -1,6 +1,6 @@
 {
   "name": "react-use-effect-async",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Async useEffect hook",
   "main": "dist/index.js",
   "license": "MIT",
