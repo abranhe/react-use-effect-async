@@ -1,0 +1,16 @@
+{
+  "name": "react-use-effect-async",
+  "version": "0.0.2",
+  "description": "Async useEffect hook",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "abranhe/react-use-effect-async",
+  "author": {
+    "name": "Abraham Hernandez",
+    "email": "abraham@abranhe.com",
+    "url": "https://abranhe.com"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2"
+  }
+}
